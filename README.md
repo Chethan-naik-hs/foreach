@@ -1,2 +1,2 @@
 # foreach
-retriewing arra elements using foreach
+retriewing array elements using foreach
